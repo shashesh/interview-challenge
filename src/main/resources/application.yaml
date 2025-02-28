@@ -1,4 +1,5 @@
 coincap:
   api:
-    url: https://api.coincap.io
+    baseUri: https://api.coincap.io
+    path: /v2/assets
     token: 2e3b1fc2-1f1a-4157-9840-1092d4a312e2
